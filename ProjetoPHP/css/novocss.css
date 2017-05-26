@@ -1,0 +1,18 @@
+.menu{
+	background: #fff;
+	font-family: Arial;
+	font-size: 14pt;
+
+	
+}
+
+.menu a{
+	text-decoration: none;
+	color: black;
+}
+
+.menu li a:hover {
+	background: red;
+	color: #fff;
+	border: 10px;
+}
