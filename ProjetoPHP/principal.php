@@ -9,17 +9,25 @@
 </head>
 <body>
   <div class="container">
-    <div class="col-lg-12">
-      <img class="" src="img/fundo.png">
-    </div>
     <div class="row">
-      <img src="img/logo.png">
-          <div class="btn-group btn-breadcrumb" id="menu">
-              <a href="#" class="btn btn-warning"><i class="glyphicon glyphicon-home"></i></a>
-              <a href="#" class="btn btn-warning">Matérias</a>
-              <a href="#" class="btn btn-warning">Adicionar</a>
-              <a href="#" class="btn btn-warning">Sair</a>
-          </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <img src="img/topo.png" alt="topo" class="img-responsive">
+      </div>  
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <ul class="nav nav-tabs nav-justified menu" role="tablist">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Matérias</a></li>
+          <li><a href="#">adicionar</a></li>
+          <li><a href="#">Sair</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
     <div class="container">
         <div class="row">
